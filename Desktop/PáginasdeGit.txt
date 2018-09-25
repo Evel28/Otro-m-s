@@ -1,6 +1,0 @@
-https://www.kyocode.com/2018/05/subir-codigo-a-github-con-visual-studio-code/
-
-http://aprendegit.com/fork-de-repositorios-para-que-sirve/
-
-https://www.ecodeup.com/instala-y-crea-tu-primer-repositorio-local-con-git-en-windows/
-
